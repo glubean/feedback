@@ -1,12 +1,20 @@
 # Glubean Feedback
 
-Report bugs and request features for [Glubean](https://glubean.com) — the test automation platform.
+This is the official feedback channel for [Glubean](https://glubean.com) — the test automation platform.
 
-## How to report a bug
+Use this repo to report bugs, request features, or ask questions about any Glubean product:
 
-1. [Open a new issue](https://github.com/glubean/feedback/issues/new)
-2. Describe what happened and what you expected
-3. Include your CLI version (`glubean --version`) if relevant
+- **Dashboard** — [app.glubean.com](https://app.glubean.com)
+- **CLI** — `@glubean/cli`
+- **VSCode Extension** — [Glubean for VSCode](https://marketplace.visualstudio.com/items?itemName=glubean.glubean)
+
+## How to submit feedback
+
+1. [Open a new issue](https://github.com/glubean/feedback/issues/new/choose)
+2. Pick the template that best fits your feedback
+3. Fill in the details — the more context, the faster we can help
+
+If you're not sure which category to pick, choose **General**.
 
 ## Links
 
